@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"UI tests","Clicking Home page on disappearing elements link","SUCCESS","2020-02-12T02:56:10.874+11:00","0.0","8.29"
+"UI tests","Login with valid credentials","SUCCESS","2020-02-12T02:56:00.925+11:00","0.0","9.55"
+"UI tests","Selecting drop downs on herokuapp","SUCCESS","2020-02-12T02:56:19.643+11:00","0.0","9.59"
+"UI tests","Writing in the iFrame","SUCCESS","2020-02-12T02:56:29.626+11:00","0.0","13.2"

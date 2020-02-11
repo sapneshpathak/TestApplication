@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="UI tests" skipped="0" tests="4" time="40.64" timestamp="2020-02-43 02:56:00"><testcase name="Login with valid credentials"/><testcase name="Clicking Home page on disappearing elements link"/><testcase name="Selecting drop downs on herokuapp"/><testcase name="Writing in the iFrame"/></testsuite>

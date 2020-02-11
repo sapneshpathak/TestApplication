@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"REST API tests","Get all the employee details for ABN AMRO TestApp","SUCCESS","2020-02-12T02:55:49.169+11:00","0.0","6.36"
+"REST API tests","Verify Post Failure on a non-existing record","SUCCESS","2020-02-12T02:55:59.688+11:00","0.0","1.1"
